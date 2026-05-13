@@ -1,0 +1,1 @@
+ For every new class, add a docstring that describes the purpose of the class.
