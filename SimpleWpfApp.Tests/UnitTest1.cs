@@ -1,6 +1,6 @@
 ﻿namespace SimpleWpfApp.Tests;
 
-public class UnitTest1
+public class SmokeTests
 {
     [Fact]
     public void BasicArithmetic_Works()
